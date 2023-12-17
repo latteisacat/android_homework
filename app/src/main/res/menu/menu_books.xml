@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_home"
+        android:title="홈으로"/>
+    <item
+        android:id="@+id/menu_video"
+        android:title="동영상강좌"/>
+    <item
+        android:id="@+id/menu_customer"
+        android:title="고객센터"/>
+    <item
+        android:id="@+id/menu_mypage"
+        android:title="마이페이지"/>
+    <item
+        android:id="@+id/menu_search"
+        android:icon="@drawable/icon_search"
+        app:actionViewClass="android.widget.SearchView"
+        app:showAsAction="always"
+        android:title="검색"/>
+</menu>

@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/list_layout02"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="10dp"
+    tools:showln="@layout/main"
+    android:orientation="vertical">
+
+    <GridView
+        android:id="@+id/book_grid_view"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="10dp"
+        android:layout_margin="10dp"
+        android:layout_marginEnd="10dp"
+        android:numColumns="2"/>
+
+    <!-- 그리드 형태 도서 레이아웃 -->
+<!--    <TableLayout-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:gravity="center_horizontal"-->
+<!--        android:stretchColumns="*">-->
+
+<!--        &lt;!&ndash; 도서 1, 2&ndash;&gt;-->
+<!--        <TableRow-->
+<!--            android:layout_width="match_parent"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:layout_marginTop="10dp"-->
+<!--            android:layout_weight="1"-->
+<!--            android:gravity="center">-->
+
+<!--            &lt;!&ndash; 도서 1 &ndash;&gt;-->
+<!--            <LinearLayout-->
+<!--                android:layout_width="match_parent"-->
+<!--                android:layout_height="match_parent"-->
+<!--                android:layout_weight="1"-->
+<!--                android:gravity="center_horizontal"-->
+<!--                android:orientation="vertical">-->
+<!--                &lt;!&ndash; 도서 1 이미지 &ndash;&gt;-->
+<!--                <ImageView-->
+<!--                    android:id="@+id/book_1"-->
+<!--                    android:layout_width="match_parent"-->
+<!--                    android:layout_height="wrap_content"-->
+<!--                    android:layout_weight="1"-->
+<!--                    android:src="@drawable/book11" />-->
+<!--                &lt;!&ndash; 도서 1 정가 &ndash;&gt;-->
+<!--                <TextView-->
+<!--                    android:id="@+id/book_price_1"-->
+<!--                    android:layout_width="wrap_content"-->
+<!--                    android:layout_height="50dp"-->
+<!--                    android:layout_weight="1"-->
+<!--                    android:text="정가 : 22,000원"-->
+<!--                    android:textSize="12sp" />-->
+
+<!--            </LinearLayout>-->
+
+<!--            &lt;!&ndash; 도서 2 &ndash;&gt;-->
+<!--            <LinearLayout-->
+<!--                android:layout_width="match_parent"-->
+<!--                android:layout_height="match_parent"-->
+<!--                android:layout_weight="1"-->
+<!--                android:gravity="center_horizontal"-->
+<!--                android:orientation="vertical">-->
+<!--                &lt;!&ndash; 도서 2 이미지 &ndash;&gt;-->
+<!--                <ImageView-->
+<!--                    android:id="@+id/book_2"-->
+<!--                    android:layout_width="match_parent"-->
+<!--                    android:layout_height="wrap_content"-->
+<!--                    android:layout_weight="1"-->
+<!--                    android:src="@drawable/book21" />-->
+<!--                &lt;!&ndash; 도서 2 정가 &ndash;&gt;-->
+<!--                <TextView-->
+<!--                    android:id="@+id/book_price_2"-->
+<!--                    android:layout_width="wrap_content"-->
+<!--                    android:layout_height="50dp"-->
+<!--                    android:layout_weight="1"-->
+<!--                    android:text="정가 : 34,000원"-->
+<!--                    android:textSize="12sp" />-->
+<!--            </LinearLayout>-->
+<!--        </TableRow>-->
+
+<!--        &lt;!&ndash; 도서 3, 4&ndash;&gt;-->
+<!--        <TableRow-->
+<!--            android:layout_width="match_parent"-->
+<!--            android:layout_height="match_parent"-->
+<!--            android:layout_marginTop="10dp"-->
+<!--            android:layout_weight="1"-->
+<!--            android:gravity="center">-->
+
+<!--            &lt;!&ndash; 도서 3 &ndash;&gt;-->
+<!--            <LinearLayout-->
+<!--                android:layout_width="match_parent"-->
+<!--                android:layout_height="match_parent"-->
+<!--                android:layout_weight="1"-->
+<!--                android:gravity="center_horizontal"-->
+<!--                android:orientation="vertical">-->
+<!--                &lt;!&ndash; 도서 3 이미지 &ndash;&gt;-->
+<!--                <ImageView-->
+<!--                    android:id="@+id/book_3"-->
+<!--                    android:layout_width="match_parent"-->
+<!--                    android:layout_height="wrap_content"-->
+<!--                    android:layout_weight="1"-->
+<!--                    android:src="@drawable/book31" />-->
+<!--                &lt;!&ndash; 도서 3 정가 &ndash;&gt;-->
+<!--                <TextView-->
+<!--                    android:id="@+id/book_price_3"-->
+<!--                    android:layout_width="wrap_content"-->
+<!--                    android:layout_height="50dp"-->
+<!--                    android:layout_weight="1"-->
+<!--                    android:text="정가 : 30,000원"-->
+<!--                    android:textSize="12sp" />-->
+<!--            </LinearLayout>-->
+
+<!--            &lt;!&ndash;도서 4 &ndash;&gt;-->
+<!--            <LinearLayout-->
+<!--                android:layout_width="match_parent"-->
+<!--                android:layout_height="match_parent"-->
+<!--                android:layout_weight="1"-->
+<!--                android:gravity="center_horizontal"-->
+<!--                android:orientation="vertical">-->
+<!--                &lt;!&ndash; 도서 4 이미지 &ndash;&gt;-->
+<!--                <ImageView-->
+<!--                    android:id="@+id/book_4"-->
+<!--                    android:layout_width="match_parent"-->
+<!--                    android:layout_height="wrap_content"-->
+<!--                    android:layout_weight="1"-->
+<!--                    android:src="@drawable/book41" />-->
+<!--                &lt;!&ndash; 도서 4 정가 &ndash;&gt;-->
+<!--                <TextView-->
+<!--                    android:id="@+id/book_price_4"-->
+<!--                    android:layout_width="wrap_content"-->
+<!--                    android:layout_height="50dp"-->
+<!--                    android:layout_weight="1"-->
+<!--                    android:text="정가 : 28,000원"-->
+<!--                    android:textSize="12sp" />-->
+
+<!--            </LinearLayout>-->
+<!--        </TableRow>-->
+<!--    </TableLayout>-->
+</LinearLayout>

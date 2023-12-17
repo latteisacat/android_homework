@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/mobile_application_software_workspace/BookMarket_Homework/app/src/main/res/drawable/bg_indicator_active.xml" value="0.216" />
+        <entry key="..\:/mobile_application_software_workspace/BookMarket_Homework/app/src/main/res/drawable/bg_indicator_in_active.xml" value="0.216" />
+        <entry key="..\:/mobile_application_software_workspace/BookMarket_Homework/app/src/main/res/drawable/ic_delete_black_24dp.xml" value="0.216" />
+        <entry key="..\:/mobile_application_software_workspace/BookMarket_Homework/app/src/main/res/drawable/ic_launcher_background.xml" value="0.216" />
+        <entry key="..\:/mobile_application_software_workspace/BookMarket_Homework/app/src/main/res/layout/activity_book_info.xml" value="0.35520833333333335" />
+        <entry key="..\:/mobile_application_software_workspace/BookMarket_Homework/app/src/main/res/layout/activity_books.xml" value="0.35520833333333335" />
+        <entry key="..\:/mobile_application_software_workspace/BookMarket_Homework/app/src/main/res/layout/activity_cart.xml" value="0.3333333333333333" />
+        <entry key="..\:/mobile_application_software_workspace/BookMarket_Homework/app/src/main/res/layout/activity_intro.xml" value="0.35520833333333335" />
+        <entry key="..\:/mobile_application_software_workspace/BookMarket_Homework/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/mobile_application_software_workspace/BookMarket_Homework/app/src/main/res/layout/activity_order.xml" value="0.35520833333333335" />
+        <entry key="..\:/mobile_application_software_workspace/BookMarket_Homework/app/src/main/res/layout/activity_shipping.xml" value="0.1" />
+        <entry key="..\:/mobile_application_software_workspace/BookMarket_Homework/app/src/main/res/layout/book_more_info.xml" value="0.35520833333333335" />
+        <entry key="..\:/mobile_application_software_workspace/BookMarket_Homework/app/src/main/res/layout/book_page_1.xml" value="0.3269513991163476" />
+        <entry key="..\:/mobile_application_software_workspace/BookMarket_Homework/app/src/main/res/layout/book_page_2.xml" value="0.35520833333333335" />
+        <entry key="..\:/mobile_application_software_workspace/BookMarket_Homework/app/src/main/res/layout/cart_count_layout.xml" value="0.6" />
+        <entry key="..\:/mobile_application_software_workspace/BookMarket_Homework/app/src/main/res/layout/dialog_login.xml" value="0.1" />
+        <entry key="..\:/mobile_application_software_workspace/BookMarket_Homework/app/src/main/res/layout/gridview_book_item.xml" value="0.3333333333333333" />
+        <entry key="..\:/mobile_application_software_workspace/BookMarket_Homework/app/src/main/res/layout/item_slider.xml" value="0.35520833333333335" />
+        <entry key="..\:/mobile_application_software_workspace/BookMarket_Homework/app/src/main/res/layout/nav_header_main.xml" value="0.35520833333333335" />
+        <entry key="..\:/mobile_application_software_workspace/BookMarket_Homework/app/src/main/res/layout/recyclerview_book_item.xml" value="0.35520833333333335" />
+        <entry key="..\:/mobile_application_software_workspace/BookMarket_Homework/app/src/main/res/layout/recyclerview_cart_item.xml" value="0.35520833333333335" />
+        <entry key="..\:/mobile_application_software_workspace/BookMarket_Homework/app/src/main/res/layout/recyclerview_order_item.xml" value="0.35520833333333335" />
+        <entry key="..\:/mobile_application_software_workspace/BookMarket_Homework/app/src/main/res/layout/toolbar.xml" value="0.35520833333333335" />
+        <entry key="..\:/mobile_application_software_workspace/BookMarket_Homework/app/src/main/res/menu/activity_book.xml" value="0.35520833333333335" />
+        <entry key="..\:/mobile_application_software_workspace/BookMarket_Homework/app/src/main/res/menu/activity_books.xml" value="0.1" />
+        <entry key="..\:/mobile_application_software_workspace/BookMarket_Homework/app/src/main/res/menu/menu_bookinfo.xml" value="0.35520833333333335" />
+        <entry key="..\:/mobile_application_software_workspace/BookMarket_Homework/app/src/main/res/menu/menu_books.xml" value="0.1" />
+        <entry key="..\:/mobile_application_software_workspace/BookMarket_Homework/app/src/main/res/menu/menu_cart.xml" value="0.35520833333333335" />
+        <entry key="..\:/mobile_application_software_workspace/BookMarket_Homework/app/src/main/res/menu/menu_navi.xml" value="0.35520833333333335" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
